@@ -8,7 +8,7 @@ import Component1 from './Component1';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Component1></Component1>
+
   </React.StrictMode>,
   document.getElementById('root')
 );
