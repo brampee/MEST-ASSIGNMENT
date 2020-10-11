@@ -1,10 +1,11 @@
 import React from 'react'
+import image from './image.jpeg';
+
+console.log(image)
 
 function Component4() {
     return (
-        <div>
-            <img src="./logo.svg" ></img>
-        </div>
+        <img src={image} height="300" width="600" />
 
     )
 }
