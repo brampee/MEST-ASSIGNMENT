@@ -3,7 +3,7 @@ import React from 'react'
 function Component4() {
     return (
         <div>
-            <img src="./photo-67112.jpg" ></img>
+            <img src="./logo.svg" ></img>
         </div>
 
     )
